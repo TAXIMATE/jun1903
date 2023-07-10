@@ -57,22 +57,22 @@ taximate 개설페이지 : www.taximate.com/teams/{teamsNo}
 
 www.taximate.com
 
-클라이언트에서 GPS로 ①위치 정보를 get
-GPS에서 클라이언트로 ②위치 정보를 받음
-클라이언트에서 API로 ③현재 역 정보를 받음
-API에서 클라이언트로 ④현재 역 TM 리스트(출발역/도착역/출발시각/현재인원)를 받음
-클라이언트에서 API로 ⑤개인정보를 받음 put
-API에서 클라이언트로 ⑥200 OK
-클라이언트에서 API로 ⑦TEAM NUMBER get
-API에서 클라이언트로 ⑧팀 정보(출발역/도착역/출발시각/현재인원/팀원정보/댓글창)
-클라이언트에서 API로 ⑨TEAM NUMBER delete
-API에서 클라이언트로 ⑩200 OK
-클라이언트에서 API로 ⑪팀 등록 (출발역/도착역/출발시각/팀장정보)put
-API에서 클라이언트로 ⑫200 OK
-클라이언트에서 API로 ⑬평점 API(팀원과 평점)
-API에서 클라이언트로 ⑭200 OK
-클라이언트에서 API로 ⑮get team/{teamNo}
-API에서 클라이언트로 16.팀정보
+*클라이언트에서 GPS로 ①위치 정보를 get
+*GPS에서 클라이언트로 ②위치 정보를 받음
+*클라이언트에서 API로 ③현재 역 정보를 받음
+*API에서 클라이언트로 ④현재 역 TM 리스트(출발역/도착역/출발시각/현재인원)를 받음
+*클라이언트에서 API로 ⑤개인정보를 받음 put
+*API에서 클라이언트로 ⑥200 OK
+*클라이언트에서 API로 ⑦TEAM NUMBER get
+*API에서 클라이언트로 ⑧팀 정보(출발역/도착역/출발시각/현재인원/팀원정보/댓글창)
+*클라이언트에서 API로 ⑨TEAM NUMBER delete
+*API에서 클라이언트로 ⑩200 OK
+*클라이언트에서 API로 ⑪팀 등록 (출발역/도착역/출발시각/팀장정보)put
+*API에서 클라이언트로 ⑫200 OK
+*클라이언트에서 API로 ⑬평점 API(팀원과 평점)
+*API에서 클라이언트로 ⑭200 OK
+*클라이언트에서 API로 ⑮get team/{teamNo}
+*API에서 클라이언트로 16.팀정보
 
 회원 DB/역 DB/진행 중 TM 정보
 회원 DB 
