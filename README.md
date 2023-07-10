@@ -77,13 +77,13 @@ www.taximate.com
 
 회원 DB/역 DB/진행 중 TM 정보
 
-* 회원 DB 
+회원 DB 
 * ID int/닉네임 string/프사 string/성별 bool
-* 역 DB
+역 DB
 
-* 진행중 TM 정보 DB
+진행중 TM 정보 DB
 * ID/출발역/팀장/팀원1/팀원2/팀원3/도착역/출발희망시각/댓글/진행 여부
-* 댓글 DB
+댓글 DB
 * ID/TM ID/시간/누가 댓글을 작성했는지
-* 온도 DB
+온도 DB
 * ID/회원 ID/TM ID/온도1...온도99/온도100/
