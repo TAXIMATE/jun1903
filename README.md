@@ -96,3 +96,10 @@ www.taximate.com
 서버에서 카카오로 post - ⑵code
 카카오에서 서버로 token - ⑶개인정보를 받아 DB에 저장
 서버에서 클라이언트로 - ⑷프사, 닉네임 받아오기
+
+20230910(일)
+www.taximate.com/path 경로 검색
+www.taximate.com/join/{int : teamID} 팀 참가 페이지
+www.taximate.com/mate/{teamID} 팀장 페이지
+www.taximate.com/rate/{teamID} 평가 페이지
+www.taximate.com/create 팀 창설 페이지
